@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ignacio Huth – Perfil oficial</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Sitio oficial de Ignacio Huth. Enlaces públicos verificados a sus únicos perfiles personales en redes sociales." />
+  <link rel="canonical" href="https://TU_DOMINIO_AQUI" />
+
+  <meta property="og:type" content="profile" />
+  <meta property="og:title" content="Ignacio Huth – Perfil oficial" />
+  <meta property="og:description" content="Enlaces oficiales y verificados de Ignacio Huth. Cualquier otro perfil con este nombre no está relacionado con él." />
+  <meta property="og:url" content="https://TU_DOMINIO_AQUI" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Ignacio Huth – Perfil oficial" />
+  <meta name="twitter:description" content="Enlaces oficiales y verificados de Ignacio Huth." />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Ignacio Huth",
+    "url": "https://TU_DOMINIO_AQUI",
+    "sameAs": [
+      "https://x.com/ignaciohuth",
+      "https://www.instagram.com/nachohuth/",
+      "https://www.facebook.com/ignacio.huth",
+      "https://www.tiktok.com/@ignacio.huth"
+    ]
+  }
+  </script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 3rem 1.5rem;
+      font-family: system-ui, sans-serif;
+      background: #ffffff;
+      color: #111111;
+      display: flex;
+      min-height: 100vh;
+      align-items: center;
+      justify-content: center;
+    }
+    main { max-width: 640px; width: 100%; }
+    h1 { font-size: 2.2rem; margin: 0 0 0.25rem; }
+    h2 { font-size: 1rem; font-weight: 500; text-transform: uppercase; margin: 0 0 1.5rem; color: #555; }
+    p { line-height: 1.5; margin: 0 0 1.5rem; }
+    ul { list-style: none; padding: 0; margin: 0 0 1.5rem; }
+    li + li { margin-top: 0.35rem; }
+    a { text-decoration: none; color: #111; border-bottom: 1px solid #ddd; padding-bottom: 2px; }
+    a:hover { border-bottom-color: #111; }
+    small { display: block; margin-top: 0.5rem; font-size: 0.8rem; color: #777; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Ignacio Huth</h1>
+      <h2>Perfil oficial</h2>
+    </header>
+
+    <section>
+      <p>Esta es la página oficial de <strong>Ignacio Huth</strong>. Los enlaces que figuran a continuación son los únicos perfiles públicos verificados.</p>
+    </section>
+
+    <section>
+      <ul>
+        <li><a href="https://x.com/ignaciohuth" target="_blank">X (Twitter) – @ignaciohuth</a></li>
+        <li><a href="https://www.instagram.com/nachohuth/" target="_blank">Instagram – @nachohuth</a></li>
+        <li><a href="https://www.facebook.com/ignacio.huth" target="_blank">Facebook – ignacio.huth</a></li>
+        <li><a href="https://www.tiktok.com/@ignacio.huth" target="_blank">TikTok – @ignacio.huth</a></li>
+      </ul>
+      <small>Cualquier otro perfil con el nombre “Ignacio Huth” no está relacionado conmigo.</small>
+    </section>
+  </main>
+</body>
+</html>
